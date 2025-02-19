@@ -26,6 +26,7 @@ numpy==2.0.2
 packaging==24.2
 pandas==2.2.3
 pillow==11.1.0
+portaudio19-dev
 protobuf==5.29.3
 pyarrow==19.0.1
 pycparser==2.22
